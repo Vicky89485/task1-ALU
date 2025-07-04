@@ -19,4 +19,6 @@ The final Verilog design code, the testbench, and all relevant simulation screen
 
 This task not only improved my Verilog coding skills but also strengthened my problem-solving approach to digital system design. Through this ALU implementation, I learned the significance of modular design practices, verification methodologies, and the importance of thorough testing before physical implementation. By successfully completing this task, I am confident in handling more complex VLSI design tasks in future stages of my learning and career.
 
+output of the task 
+![Image](https://github.com/user-attachments/assets/f964ad01-215a-4c55-9ea2-c2055e5b7cac)
 
